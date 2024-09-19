@@ -1,1 +1,3 @@
-#### Xin Chào ! Lỗi Không Có Dữ Liệu 
+#### Xin Chào ! Đang Tải Thêm Dữ Liệu ...
+
+[Rom Nokia ](https://github.com/vuminhngocpt/Rom-Nokia/blob/main/README.md)
