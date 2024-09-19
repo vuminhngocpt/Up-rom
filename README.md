@@ -4,3 +4,6 @@ Các Bạn Lưu Ý Khi Sử Dụng Hoặc Cài Đặt Các Phần Mên Phải C�
 
 
 [Rom Nokia ](https://github.com/vuminhngocpt/Rom-Nokia/blob/main/README.md)
+
+
+    Vũ Minh Ngọc (c) 2024
