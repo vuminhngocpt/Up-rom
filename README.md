@@ -8,4 +8,7 @@ Các Bạn Lưu Ý Khi Sử Dụng Hoặc Cài Đặt Các Phần Mên Phải C�
 
 🧩 [FIRMWARE Sony](https://github.com/vuminhngocpt/Sony/blob/main/README.md)
 
+ 🗂️ [ Nintendo Switch](https://github.com/vuminhngocpt/Rom-Nintendo-Switch) 
+ 
+
     Vũ Minh Ngọc (c) 2024
