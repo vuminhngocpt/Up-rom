@@ -10,6 +10,6 @@ Các Bạn Lưu Ý Khi Sử Dụng Hoặc Cài Đặt Các Phần Mên Phải C�
 
  🗂️ [ Nintendo Switch](https://github.com/vuminhngocpt/Rom-Nintendo-Switch) 
  
-📁 [Strem Deack ](test)
+ 📁 [ Steam Deck ](test)
 
     Vũ Minh Ngọc (c) 2024
