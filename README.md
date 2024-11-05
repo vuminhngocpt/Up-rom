@@ -12,4 +12,6 @@ Các Bạn Lưu Ý Khi Sử Dụng Hoặc Cài Đặt Các Phần Mên Phải C�
  
  📁 [ Steam Deck ](https://github.com/vuminhngocpt/Ho-tro-cho-stremdeck)
 
+📚 [O2 ROM](test)
+
     Vũ Minh Ngọc (c) 2024
