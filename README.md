@@ -11,6 +11,8 @@ Các Bạn Lưu Ý Khi Sử Dụng Hoặc Cài Đặt Các Phần Mên Phải C�
 ✅📖 [Rom Samsung](https://github.com/vuminhngocpt/romsamsung)
 
 ✅📖 [Rom HTC ](test)
+
+
  🗂️ [ Nintendo Switch](https://github.com/vuminhngocpt/Rom-Nintendo-Switch) 
  
  📁 [ Steam Deck ](https://github.com/vuminhngocpt/Ho-tro-cho-stremdeck)
@@ -18,3 +20,4 @@ Các Bạn Lưu Ý Khi Sử Dụng Hoặc Cài Đặt Các Phần Mên Phải C�
 📚 [O2 ROM](https://github.com/vuminhngocpt/O2)
 
     Vũ Minh Ngọc © 2025 by VMNit
+    Mã Nguồn Mở (code)
