@@ -16,4 +16,4 @@ Các Bạn Lưu Ý Khi Sử Dụng Hoặc Cài Đặt Các Phần Mên Phải C�
 
 📚 [O2 ROM](https://github.com/vuminhngocpt/O2)
 
-    Vũ Minh Ngọc (c) 2024
+    Vũ Minh Ngọc © 2025 by VMNit
