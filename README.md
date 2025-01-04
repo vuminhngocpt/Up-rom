@@ -8,6 +8,8 @@ Các Bạn Lưu Ý Khi Sử Dụng Hoặc Cài Đặt Các Phần Mên Phải C�
 
 🧩 [FIRMWARE Sony](https://github.com/vuminhngocpt/Sony/blob/main/README.md)
 
+✅ [Rom Samsung](test)
+
  🗂️ [ Nintendo Switch](https://github.com/vuminhngocpt/Rom-Nintendo-Switch) 
  
  📁 [ Steam Deck ](https://github.com/vuminhngocpt/Ho-tro-cho-stremdeck)
