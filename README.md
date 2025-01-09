@@ -10,7 +10,7 @@ Các Bạn Lưu Ý Khi Sử Dụng Hoặc Cài Đặt Các Phần Mên Phải C�
 
 ✅📖 [Rom Samsung](https://github.com/vuminhngocpt/romsamsung)
 
-✅📖 [Rom LG](test)
+✅📖 [Rom LG](https://github.com/vuminhngocpt/RomLGn)
 
 
  🗂️ [ Rom Nintendo Switch](https://github.com/vuminhngocpt/Rom-Nintendo-Switch) 
