@@ -22,7 +22,7 @@
 
 👉🏻 [Rom O2](https://github.com/vuminhngocpt/O2)
 
-👉🏻 [Rom Xiaomi](test)
+👉🏻 [Rom Xiaomi](https://github.com/vuminhngocpt/romxiaomi)
 
 
 
