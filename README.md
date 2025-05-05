@@ -25,7 +25,7 @@
 
 👉🏻 [Rom Xiaomi](https://github.com/vuminhngocpt/romxiaomi)
 
-🛜 [ Aruba Os](test)
+🛜 [ Aruba Os](https://github.com/vuminhngocpt/arubaos)
 
 
 
