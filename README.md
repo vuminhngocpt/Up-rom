@@ -25,6 +25,8 @@
 
 👉🏻 [Rom Xiaomi](https://github.com/vuminhngocpt/romxiaomi)
 
+🛜 [ Aruba Os](test)
+
 
 
           VMNiT© - Minh Ngọc
