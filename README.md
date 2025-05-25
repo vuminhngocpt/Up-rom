@@ -27,7 +27,7 @@
 
 🛜 [ Aruba Os](https://github.com/vuminhngocpt/arubaos)
 
-🫥[Huawei Harmony OS](https://github.com/vuminhngocpt/Huawei-Harmony-OS)
+🫥 [Huawei](https://github.com/vuminhngocpt/Huawei-Harmony-OS)
 
 
           VMNiT© - Minh Ngọc
