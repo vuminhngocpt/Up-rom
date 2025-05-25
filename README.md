@@ -6,26 +6,26 @@
 
 📲 [iPhone ,iPad,iOS](https://github.com/vuminhngocpt/iPhoneios)` dành cho iPhone và các thiết bị Apple xin lưu ý bạn phải thật cẩn thận khi chạy lại phần mềm iOS khi chạy sẽ có khả năng máy bị khoá ,đảm bảo bạn đã thoát tài khoản hoặc bạn nhớ tài khoản , máy khoá mạng khi chạy sẽ khoá mạng lại , dữ liệu và esim sẽ bị mất , luôn sao lưu dữ liệu để đảm bảo bạn không bị mất danh bạ ...`
 
-👉🏻 [Rom NOKIA](https://github.com/vuminhngocpt/Rom-Nokia/blob/main/README.md)
+👉🏻 [NOKIA](https://github.com/vuminhngocpt/Rom-Nokia/blob/main/README.md)
 
-👉🏻 [Rom Sony](https://github.com/vuminhngocpt/Sony/blob/main/README.md)
+👉🏻 [Sony](https://github.com/vuminhngocpt/Sony/blob/main/README.md)
 
-👉🏻 [Rom Samsung](https://github.com/vuminhngocpt/romsamsung)
+👉🏻 [Samsung](https://github.com/vuminhngocpt/romsamsung)
 
-👉🏻 [Rom LG](https://github.com/vuminhngocpt/RomLGn)
+👉🏻 [LG](https://github.com/vuminhngocpt/RomLGn)
 
 
-👉🏻[Rom Tp-Link ](test)
+👉🏻[Tp-Link ](test)
 
-👉🏻 [ Rom Nintendo Switch](https://github.com/vuminhngocpt/Rom-Nintendo-Switch) 
+👉🏻 [Nintendo ](https://github.com/vuminhngocpt/Rom-Nintendo-Switch) 
  
- 👉🏻 [Rom Steam Deck ](https://github.com/vuminhngocpt/Ho-tro-cho-stremdeck)
+ 👉🏻 [Steam Deck ](https://github.com/vuminhngocpt/Ho-tro-cho-stremdeck)
 
-👉🏻 [Rom O2](https://github.com/vuminhngocpt/O2)
+👉🏻 [O2](https://github.com/vuminhngocpt/O2)
 
-👉🏻 [Rom Xiaomi](https://github.com/vuminhngocpt/romxiaomi)
+👉🏻 [Xiaomi](https://github.com/vuminhngocpt/romxiaomi)
 
-🛜 [ Aruba Os](https://github.com/vuminhngocpt/arubaos)
+🛜 [ Aruba ](https://github.com/vuminhngocpt/arubaos)
 
 🫥 [Huawei](https://github.com/vuminhngocpt/Huawei-Harmony-OS)
 
