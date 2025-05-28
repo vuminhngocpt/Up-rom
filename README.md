@@ -24,9 +24,9 @@
 
 👉🏻 [Xiaomi](https://github.com/vuminhngocpt/romxiaomi)
 
-🛜 [ Aruba ](https://github.com/vuminhngocpt/arubaos)
+### 🛜 [ Aruba ](https://github.com/vuminhngocpt/arubaos)
 
-🫥 [Huawei](https://github.com/vuminhngocpt/Huawei-Harmony-OS)
+### 🫥 [Huawei](https://github.com/vuminhngocpt/Huawei-Harmony-OS)
 
 
-          VMNiT© - Minh Ngọc
+        ©2025 Vũ Minh Ngọc
