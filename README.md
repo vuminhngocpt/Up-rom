@@ -14,7 +14,7 @@
 👉🏻 [LG](https://github.com/vuminhngocpt/RomLGn)
 
 
-👉🏻[Tp-Link ](test)
+👉🏻[Tp-Link ](https://www.tp-link.com/vn/support/download/)
 
 👉🏻 [Nintendo ](https://github.com/vuminhngocpt/Rom-Nintendo-Switch) 
  
