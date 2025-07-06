@@ -1,4 +1,8 @@
 ####      Xin Chào !
+
+ > Xin Hãy Cho Tôi Thử Nghiệm Trên Máy Bạn ! Nếu Bạn Có Máy Điện Thoại Hoặc Các Thiết Bị Không Sử Dụng Hoặc Không Cần Đến , Máy Phụ Hãy Cho Tôi Mượn Máy Để Test Các Bản Mod Hoặc Cho Tôi Được Trải Nghiệm Tôi Rất Cần Kiến Thức Thêm Để Phục Vụ Cộng Đồng , Xin Liên Hệ Qua Email : vuminhngocpt@gmail.com tôi sẽ trả lời hoặc quay về trang chủ để liên lạc với tôi , cảm ơn bạn rất nhiều
+
+
 ###  [Quay Về Trang Chủ](https://github.com/vuminhngocpt/vuminhngocpt-gmail.com)
 
  >⚠️ Các Bạn Lưu Ý Khi Sử Dụng Hoặc Cài Đặt Các Phần Mên Phải Có Kiến Thức Nhất Định Nếu Không Lúc Sảy Ra Lỗi Hoặc Làm Hỏng Thiết Bị Tôi Sẽ Không Chịu Trách Nhiệm , Các Phầm Sụn Tôi Đều Sưu Tầm Có Thể Có Lỗi Nên Các Bạn Luôn Sao Lưu Dữ Liệu Khi Làm Bất Cứ Điều Gì !
