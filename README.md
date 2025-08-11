@@ -32,8 +32,6 @@
 
 ### 🫥 [Huawei](https://github.com/vuminhngocpt/Huawei-Harmony-OS)
 
-### 😭<img width="480" height="480" alt="image" src="https://github.com/user-attachments/assets/1c1f7614-d222-44ee-af70-7a1d822b5b36" />
-<img width="480" height="480" alt="image" src="https://github.com/user-attachments/assets/93dadc93-be92-4e49-92fa-63f94ca12d4c" />
-[Viettel](https://github.com/vuminhngocpt/Viettelaxt)
+### 😭 [Viettel](https://github.com/vuminhngocpt/Viettelaxt)
 
         ©2025 Vũ Minh Ngọc
